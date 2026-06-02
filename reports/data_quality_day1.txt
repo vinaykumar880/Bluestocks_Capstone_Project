@@ -1,0 +1,14 @@
+DATA QUALITY SUMMARY - Day 1
+========================================
+
+CSVs loaded           : 10
+Total anomalies found : 1
+  - 04_monthly_sip_inflows: nulls -> {'yoy_growth_pct': 12}
+
+AMFI Code Validation
+  fund_master codes   : 40
+  nav_history codes   : 40
+  Matched             : 40
+  Missing from NAV    : 0
+
+Conclusion: All AMFI codes in fund_master exist in nav_history. Data is consistent.
