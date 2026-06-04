@@ -1,0 +1,8 @@
+Data Quality Summary
+
+1. 10 CSV datasets loaded successfully.
+2. Null values identified in selected datasets.
+3. Duplicate records detected and reported.
+4. Live NAV data fetched successfully from mfapi.in.
+5. AMFI code validation completed.
+6. Missing AMFI codes: X
